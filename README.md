@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Diego Perales
 
-<!--
-**diegoperales065/diegoperales065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Analyst | Data Scientist
 
-Here are some ideas to get you started:
+Actualmente curso un Dual Máster en Data Analytics & Data Science/AI,
+donde desarrollo proyectos aplicados a problemas reales de negocio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa especialmente transformar datos en información útil para
+la toma de decisiones, combinando análisis de datos, visualización
+y modelos de Machine Learning.
+
+## 🛠 Tecnologías y herramientas
+
+Python · SQL · Pandas · NumPy · Scikit-learn  
+BigQuery · Looker Studio · Power BI · Git  
+Machine Learning · Time Series · MLOps
+
+## Proyectos destacados
+
+### 📊 Empresa Fintech Marketing Analytics
+Análisis de campañas de marketing para identificar patrones y factores
+relacionados con la contratación de productos financieros.
+
+Incluye análisis exploratorio de datos, análisis de clientes y campañas,
+modelado predictivo y generación de insights y recomendaciones de negocio.
+
+### 💰 Empresa de Finanzas EasyMoney
+Proyecto de Data Science aplicado a servicios financieros.
+
+Análisis de clientes, segmentación, modelos de propensión y recomendación
+de productos, personalización de campañas, KPIs y MLOps.
+
+## 📫 Contacto
+
+LinkedIn: www.linkedin.com/in/diego-perales065
